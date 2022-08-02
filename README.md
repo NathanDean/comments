@@ -1,4 +1,4 @@
-# React/Redux comments
+# React/Redux comments app
 
 Deployed to Heroku <a href = "https://young-reaches-78823.herokuapp.com/">here</a>.
 
